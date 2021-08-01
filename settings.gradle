@@ -1,2 +1,2 @@
-rootProject.name = "birthday card"
+rootProject.name = "Birthday Greeting Card"
 include ':app'
